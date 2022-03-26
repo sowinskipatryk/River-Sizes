@@ -1,1 +1,1 @@
-# River-Sizes
+My take on AlgoExpert's exercise called River Sizes. I should point out that this is not an optimal solution in terms of time and memory complexity and the use of recursion is controversial, while it was the first solution idea I came up with and I decided to stick to it.
